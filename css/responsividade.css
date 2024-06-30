@@ -86,7 +86,10 @@
 
     .card-contato {
         margin: 10px auto;
-        width: 90%;
+        width: 100%;
+    }
+    .card-contato p {
+    font-size: 14px;
     }
 
     iframe {
