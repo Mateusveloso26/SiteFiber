@@ -10,9 +10,8 @@
 :root {
   --primaria: #030720;
   --secundaria: #007BFF;
-  --light:#fff;
+  --light: #fff;
 }
-
 
 /* MENU  */
 header {
@@ -201,6 +200,7 @@ header nav ul li a.active {
   display: block;
   object-fit: cover;
 }
+
 /* SECTION SOBRE */
 .sobre {
   text-align: center;
@@ -228,7 +228,8 @@ header nav ul li a.active {
   text-align: left;
   margin: 10px 0;
 }
-.sobre-assunto h3{
+
+.sobre-assunto h3 {
   color: #007BFF;
 }
 
@@ -250,7 +251,7 @@ header nav ul li a.active {
   margin: 20px;
   width: 200px;
   height: 150px;
-  transition:  0.3s;
+  transition: 0.3s;
 }
 
 .card-vantagens p {
@@ -440,7 +441,6 @@ swiper-slide {
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
 }
 
-
 .container-contato {
   display: flex;
   justify-content: center;
@@ -479,9 +479,6 @@ swiper-slide {
   color: #000000;
   font-weight: bold;
 }
-
-
-
 
 /*  DÚVIDAS FREQUENTES*/
 .duvidas {

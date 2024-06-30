@@ -26,8 +26,6 @@ document.addEventListener('DOMContentLoaded', function () {
       duration: 1500,
       easing: 'ease-in-out'
     });
-
-
   }
 });
 
