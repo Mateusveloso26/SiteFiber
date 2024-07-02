@@ -22,6 +22,7 @@ header {
   top: 0;
   left: 0;
   z-index: 1000;
+  height: 85px;
   background-color: #030720;
   padding: 0px 20px;
 
@@ -134,23 +135,6 @@ header nav ul li a.active {
   text-align: center;
 }
 
-#btnTop {
-  display: none;
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 99;
-  font-size: 15px;
-  border: none;
-  outline: none;
-  background-color: #ffde59;
-  cursor: pointer;
-  padding: 12px;
-}
-
-#btnTop:hover {
-  background-color: #fde687;
-}
 
 .whatsapp-fixed {
   position: fixed;
