@@ -114,7 +114,7 @@ header nav ul li a.active {
   padding-bottom: 10px;
   border-bottom: 4px solid #007BFF;
   width: fit-content;
-  margin-top: 50px;
+  margin-top: 15px;
   margin: auto;
 }
 
@@ -129,7 +129,7 @@ header nav ul li a.active {
   max-width: 100%;
   max-height: 100%;
   flex-wrap: wrap;
-  padding: 60px;
+  padding: 30px;
   display: flex;
   justify-content: center;
   text-align: center;
@@ -167,6 +167,7 @@ header nav ul li a.active {
   height: auto;
 }
 
+
 .swiper-wrapper {
   display: flex;
   flex-direction: row;
@@ -189,7 +190,7 @@ header nav ul li a.active {
 .sobre {
   text-align: center;
   display: flex;
-  padding: 96px 48px;
+  padding: 30px 48px;
   flex-direction: column;
   background-image: url('/img/bk.jpg');
   background-size: cover;
@@ -224,7 +225,7 @@ header nav ul li a.active {
 /*  VANTAGENS */
 .vantagens {
   text-align: center;
-  padding: 96px 48px;
+  padding: 30px 48px;
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -261,7 +262,7 @@ header nav ul li a.active {
 .planos {
   text-align: center;
   background-color: var(--background1);
-  padding: 96px 48px;
+  padding: 30px 48px;
 }
 
 swiper-container {
@@ -421,7 +422,7 @@ swiper-slide {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 96px 48px;
+  padding: 30px 48px;
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -467,7 +468,7 @@ swiper-slide {
 /*  DÚVIDAS FREQUENTES*/
 .duvidas {
   text-align: center;
-  padding: 96px 48px;
+  padding: 30px 48px;
   background-color: var(--background1);
 }
 
